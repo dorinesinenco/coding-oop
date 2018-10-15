@@ -3,7 +3,7 @@ package ariborn;
 
 // BASE CLASS / SUPER
 public class AirPlane {
-	private int fuel; // bak 
+	public int fuel; // bak 
 	byte seats; // mesta
 	int distance; // probeg
 	
